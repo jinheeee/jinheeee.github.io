@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "This is all about me, JinHee. I was born in 1996 in Seoul, and raised in Singapore and Seoul. I am a Korean native speaker and my English is pretty good too."
+excerpt: "This is all about me, JinHee. I was born in 1996 in Seoul, and raised in Singapore and Seoul."
 layouts_gallery:
  - url: 
     image_path: 
