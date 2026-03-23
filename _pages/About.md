@@ -27,9 +27,9 @@ This blog is about me, JinHee :smile:
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
+| [Categories][categories-archive] | Posts grouped by category. |
 
-For even more demo pages check the [posts archive][year-archive].
+For even more demo pages check the [posts][year-archive].
 
 [categories-archive]: {{ "/categories/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
