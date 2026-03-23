@@ -45,8 +45,8 @@ en: &DEFAULT_EN
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
-  search_label_text          : "Enter your search term..."
-  search_placeholder_text    : "Enter your search term..."
+  search_label_text          : "Enter your search term"
+  search_placeholder_text    : "Enter your search term"
   search_algolia_no_results  : "No results"
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
@@ -637,9 +637,9 @@ ko: &DEFAULT_KO
   comment_error_msg          : "댓글 등록에 문제가 있습니다. 필요 필드를 작성했는지 확인하고 다시 시도하세요."
   loading_label              : "로딩중..."
   search_label_text          :
-  search_placeholder_text    : "검색어를 입력하세요..."
+  search_placeholder_text    : "검색어를 입력하세요"
   search_algolia_no_results  :
-  results_found              : "개 결과 발견"
+  results_found              : "결과 발견"
   back_to_top                : "맨 위로 이동"
 ko-KR:
   <<: *DEFAULT_KO
